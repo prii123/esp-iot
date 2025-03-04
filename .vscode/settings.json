@@ -3,7 +3,8 @@
         "task.h": "c",
         "smartconfig_task.h": "c",
         "esp_err.h": "c",
-        "wifi_smartconfig.h": "c"
+        "wifi_smartconfig.h": "c",
+        "esp_wifi_types.h": "c"
     },
-    "idf.portWin": "COM4"
+    "idf.portWin": "COM3"
 }
